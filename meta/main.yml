@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: Thiago Costa
+  description: Install minimal Memcached 1.4.21 (from source) on CentOS
+  company: 
+  license: license (GPLv2, CC-BY, etc)
+  min_ansible_version: 1.2
+  platforms:
+  - name: EL
+    versions:
+    - 6
+  categories:
+  - development
+  - web
+dependencies:
+  - { role: tcosta84.yum }
