@@ -1,5 +1,5 @@
-Role Name
-=========
+Ansible Role: Memcached
+=======================
 
 Installs minimal Memcached 1.4.21 (from source) on CentOS 6.5
 
